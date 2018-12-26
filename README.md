@@ -1,3 +1,3 @@
 # Courses
 ## edX
-* [Introduction to Kubernetes](edx/LFS158x/README.md)
+* [Introduction to Kubernetes](edx/LFS158x)
