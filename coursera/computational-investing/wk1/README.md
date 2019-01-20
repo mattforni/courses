@@ -14,10 +14,10 @@ When the portfolio went down, how much did it go down by
 ### Reward/Risk: Sharpe Ratio
 Most important measure for asset performance. How well does an asset perform for the risk taken. Higher Sharpe Ratio means more return for the same risk
 
-* S = Reward / Risk, *where Reward = E[R - R_f], Risk = σ*
+* S = Reward / Risk, _where Reward = E[R - R_f], Risk = σ_
 * S = E[R - R_f] / σ
 * sharpe = k * mean(daily\_rets) / stdev(daily\_rets)
-* k = sqrt(250), *where 250 the number of trading days, 12 for monthly*
+* k = sqrt(250), _where 250 the number of trading days, 12 for monthly_
   
 ### Reward/Risk: Sortino Ratio
 Different from Sharpe Ratio in that it only counts Risk when the fund goes down
